@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ef9fd4b3.css",
+    "main.js": "/static/js/main.e8657db1.js",
+    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "static/media/pj5.PNG": "/static/media/pj5.2f3cc4669e1ad6cc238d.PNG",
+    "static/media/pj1.PNG": "/static/media/pj1.d161a04e030300176b72.PNG",
+    "static/media/bg4.jpg": "/static/media/bg4.262a518027596c0b88e0.jpg",
+    "static/media/bg5.jpg": "/static/media/bg5.95d19f23ed8271ea83b0.jpg",
+    "static/media/pj6.PNG": "/static/media/pj6.de5502c371763e7c23f7.PNG",
+    "static/media/foot.jpg": "/static/media/foot.48d4a93a0ebdd3dbdd1e.jpg",
+    "static/media/pj2.PNG": "/static/media/pj2.d969b4743ef011d8272c.PNG",
+    "static/media/sxc.png": "/static/media/sxc.582b235cc86e127d6a85.png",
+    "static/media/heropic.png": "/static/media/heropic.f322b6d5425dbe5175fa.png",
+    "static/media/pj4.PNG": "/static/media/pj4.dd19553f5924c22b713d.PNG",
+    "static/media/bg1.jpg": "/static/media/bg1.057cc8f0632c6c440694.jpg",
+    "static/media/python.png": "/static/media/python.368ff420d152a71031c0.png",
+    "static/media/bg.jpg": "/static/media/bg.1a573b3f62a66790ff02.jpg",
+    "static/media/bg3.jpg": "/static/media/bg3.f98098d596ea32971036.jpg",
+    "static/media/gems.png": "/static/media/gems.07947f8436d108446f6c.png",
+    "static/media/java.png": "/static/media/java.65559c7081cb52053b13.png",
+    "static/media/Tailwind.png": "/static/media/Tailwind.54b45f9604cc9db79620.png",
+    "static/media/iims.png": "/static/media/iims.9afaef8a8c794d1a36a4.png",
+    "static/media/pj3.PNG": "/static/media/pj3.807f32f1090d2841c7b4.PNG",
+    "static/media/django.png": "/static/media/django.f4e2d5d0f7e6233df4c5.png",
+    "static/media/djangorest.png": "/static/media/djangorest.58fdf724026a3832212b.png",
+    "static/media/logo.png": "/static/media/logo.68e3d8e8faed53d89928.png",
+    "static/media/react.png": "/static/media/react.3b5049ea7908e9da3ba0.png",
+    "static/media/html5.png": "/static/media/html5.091ed5277db51dc51cf0.png",
+    "static/media/Mysql.png": "/static/media/Mysql.a04abbf76b39676bc4d9.png",
+    "static/media/css3.png": "/static/media/css3.3eadfc84550eff252981.png",
+    "static/media/js.png": "/static/media/js.266bd9fb2663dcc057b4.png",
+    "index.html": "/index.html",
+    "main.ef9fd4b3.css.map": "/static/css/main.ef9fd4b3.css.map",
+    "main.e8657db1.js.map": "/static/js/main.e8657db1.js.map",
+    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef9fd4b3.css",
+    "static/js/main.e8657db1.js"
+  ]
+}
